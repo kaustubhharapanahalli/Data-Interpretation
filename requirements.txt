@@ -1,0 +1,7 @@
+jupyter==1.0.0
+notebook==6.1.6
+numpy==1.19.5
+pandas==1.2.0
+seaborn==0.11.1
+matplotlib==3.3.3
+lab==6.2
